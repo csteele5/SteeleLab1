@@ -18,5 +18,3 @@ The responsibilities associated with the functionality of the STL1 application f
 | Charles Steele  | @siegcw | monica.medellin@dxc.com | STL1 Lead Engineer |
 | Charles Steele | @siegcw | csteele5@dxc.com | STL1 UI Designer and Developer |
 
-
-
